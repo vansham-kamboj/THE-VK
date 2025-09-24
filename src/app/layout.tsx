@@ -3,7 +3,7 @@ import './globals.css';
 import { LayoutClient } from '@/components/layout-client';
 
 export const metadata: Metadata = {
-  title: "VK's Cosmic Portfolio",
+  title: "The VK",
   description: 'The Boy Who Never Quit Dreaming',
 };
 
