@@ -51,9 +51,6 @@ export default function EventsGalleryPage() {
               </Card>
             ))}
           </div>
-          <div className="text-center mt-12 font-comic text-lg text-muted-foreground">
-            <p>More memories coming soon! You can upload your event images in the `/public/images` folder.</p>
-          </div>
         </div>
       </main>
       <Footer />
