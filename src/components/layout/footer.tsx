@@ -3,10 +3,10 @@ import { Button } from "../ui/button";
 import { Separator } from "../ui/separator";
 
 const socialLinks = [
-    { name: 'Instagram', icon: <Instagram />, href: '#' },
-    { name: 'LinkedIn', icon: <Linkedin />, href: '#' },
-    { name: 'Twitter', icon: <Twitter />, href: '#' },
-    { name: 'YouTube', icon: <Youtube />, href: '#' },
+    { name: 'Instagram', icon: <Instagram />, href: 'https://www.instagram.com/vansham__kamboj/' },
+    { name: 'LinkedIn', icon: <Linkedin />, href: 'https://www.linkedin.com/in/vansham-kamboj/' },
+    { name: 'Twitter', icon: <Twitter />, href: 'https://x.com/vansham__kamboj' },
+    { name: 'YouTube', icon: <Youtube />, href: 'https://www.youtube.com/@VanshamKamboj' },
 ];
 
 const Footer = () => {
